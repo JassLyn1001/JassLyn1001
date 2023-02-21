@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Jassica.
-- 👀 I am a young passionate and dedicated data science enthusiast with almost three years of experience in climate change analysis. 
+- 👀 I am a young passionate and dedicated data science enthusiast with 4+ years of experience in climate change analysis. 
 - 🌱 I also strive to gain more knowledge about the wide use of data science including data collection, data cleaning, exploratory data analysis, machine learning and data storytelling in climate sciences field so that I can expand my skillset in becoming a successful climate scientist.
 
 
